@@ -1,0 +1,11 @@
+G:\Dokumenty\Csharp\File stream\File stream\bin\Debug\File stream.exe.config
+G:\Dokumenty\Csharp\File stream\File stream\bin\Debug\File stream.exe
+G:\Dokumenty\Csharp\File stream\File stream\bin\Debug\File stream.pdb
+G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File stream.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File_stream.Form1.resources
+G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File_stream.Properties.Resources.resources
+G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File stream.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File stream.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File stream.exe
+G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File stream.pdb
+G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File_stream.Form2.resources
