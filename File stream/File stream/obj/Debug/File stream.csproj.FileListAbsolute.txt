@@ -9,3 +9,15 @@ G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File stream.csproj.CoreCom
 G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File stream.exe
 G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File stream.pdb
 G:\Dokumenty\Csharp\File stream\File stream\obj\Debug\File_stream.Form2.resources
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\bin\Debug\File stream.exe.config
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\bin\Debug\File stream.exe
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\bin\Debug\File stream.pdb
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File stream.csproj.AssemblyReference.cache
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File stream.csproj.SuggestedBindingRedirects.cache
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File_stream.Form1.resources
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File_stream.Form2.resources
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File_stream.Properties.Resources.resources
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File stream.csproj.GenerateResource.cache
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File stream.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File stream.exe
+D:\Koj\Programování\GitHub\C#\DU9\File stream\File stream\obj\Debug\File stream.pdb
